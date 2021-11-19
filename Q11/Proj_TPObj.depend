@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1615750690 source:c:\users\blaise c\documents\dev\cb\tp_obj\proj_tpobj\main.cpp
+	"main.h"
+
+1615750663 c:\users\blaise c\documents\dev\cb\tp_obj\proj_tpobj\main.h
+	<iostream>
+	"emularduino.h"
+	"signal.h"
+
+1614941783 c:\users\blaise c\documents\dev\cb\tp_obj\proj_tpobj\emularduino.h
+
+1615750098 c:\users\blaise c\documents\dev\cb\tp_obj\proj_tpobj\signal.h
+	<vector>
+
+1636736179 source:c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\main.cpp
+	"main.h"
+
+1636736215 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\main.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	"emularduino.h"
+	"Compteur_aff_reset.h"
+	"BoutonInc.h"
+	"BoutonRaZ.h"
+
+1636723123 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\emularduino.h
+
+1636723126 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\signal.h
+	<vector>
+
+1636727184 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\include\afficheur.h
+	"emularduino.h"
+
+1636728015 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\afficheur.h
+	"emularduino.h"
+
+1636728042 source:c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\afficheur.cpp
+	"Afficheur.h"
+
+1636731511 source:c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\bouton.cpp
+	"Bouton.h"
+
+1636732878 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\bouton.h
+	"emularduino.h"
+	"Compteur_afficheur.h"
+
+1636736231 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\compteur_afficheur.h
+	"Afficheur.h"
+
+1636731048 source:c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\compteur_afficheur.cpp
+	"Compteur_afficheur.h"
+
+1636735551 source:c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\boutoninc.cpp
+	"BoutonInc.h"
+
+1636735863 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\boutoninc.h
+	"emularduino.h"
+	"Compteur_aff_reset.h"
+
+1636733497 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\compteur_aff_reset.h
+	"Compteur_afficheur.h"
+
+1636735503 source:c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\boutonraz.cpp
+	"BoutonRaZ.h"
+
+1636735467 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\boutonraz.h
+	"emularduino.h"
+	"Compteur_aff_reset.h"
+	"BoutonInc.h"
+
+1636735510 source:c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\compteur_aff_reset.cpp
+	"Compteur_aff_reset.h"
+
+1636728042 source:c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\afficheur.cpp
+	"Afficheur.h"
+
+1636728015 c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\afficheur.h
+	"emularduino.h"
+
+1636723123 c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\emularduino.h
+
+1637333699 source:c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\bouton.cpp
+	"Bouton.h"
+
+1637338085 c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\bouton.h
+	"emularduino.h"
+
+1636736231 c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\compteur_afficheur.h
+	"Afficheur.h"
+
+1637338188 source:c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\boutoninc.cpp
+	"BoutonInc.h"
+
+1637338106 c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\boutoninc.h
+	"emularduino.h"
+	"Bouton.h"
+	"Compteur_aff_reset.h"
+	<iostream>
+
+1636733497 c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\compteur_aff_reset.h
+	"Compteur_afficheur.h"
+
+1637338173 source:c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\boutonraz.cpp
+	"BoutonRaZ.h"
+
+1637338112 c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\boutonraz.h
+	"emularduino.h"
+	"Bouton.h"
+	"Compteur_aff_reset.h"
+	<iostream>
+
+1637331744 source:c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\compteur_aff_reset.cpp
+	"Compteur_aff_reset.h"
+
+1636731048 source:c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\compteur_afficheur.cpp
+	"Compteur_afficheur.h"
+
+1637340381 source:c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\main.cpp
+	"main.h"
+
+1637340159 c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\main.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	<vector>
+	"emularduino.h"
+	"Compteur_aff_reset.h"
+	"BoutonInc.h"
+	"BoutonRaZ.h"
+	"BoutonVoyant.h"
+
+1637338275 source:c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\boutonvoyant.cpp
+	"BoutonVoyant.h"
+
+1637338234 c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\boutonvoyant.h
+	"emularduino.h"
+	"Bouton.h"
+	"Voyant.h"
+	<iostream>
+
+1637334836 c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\voyant.h
+	"emularduino.h"
+
+1637338342 source:c:\users\etudiants\desktop\tp_cpp_ocsa\proj_tpobj_doolaeghe\voyant.cpp
+	"Voyant.h"
+

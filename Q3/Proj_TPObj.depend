@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1615750690 source:c:\users\blaise c\documents\dev\cb\tp_obj\proj_tpobj\main.cpp
+	"main.h"
+
+1615750663 c:\users\blaise c\documents\dev\cb\tp_obj\proj_tpobj\main.h
+	<iostream>
+	"emularduino.h"
+	"signal.h"
+
+1614941783 c:\users\blaise c\documents\dev\cb\tp_obj\proj_tpobj\emularduino.h
+
+1615750098 c:\users\blaise c\documents\dev\cb\tp_obj\proj_tpobj\signal.h
+	<vector>
+
+1636726469 source:c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\main.cpp
+	"main.h"
+
+1636726445 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\main.h
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<unistd.h>
+	"emularduino.h"
+	"signal.h"
+
+1636723123 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\emularduino.h
+
+1636723126 c:\users\etudiants\desktop\ocsa\proj_tpobj_doolaeghe\signal.h
+	<vector>
+
